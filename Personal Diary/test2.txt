@@ -1,0 +1,5 @@
+								test2.txt
+			DATE : 2005-07-19					TIME : 13.45
+
+Hi I am  writing the note to test...
+Good bye

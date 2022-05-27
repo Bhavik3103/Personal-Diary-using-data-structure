@@ -1,0 +1,9 @@
+								test1.txt
+			DATE : 2002-01-03					TIME : 12.00
+
+Hi I was born one year after this date .....
+God bye
+Good bye
+
+I typed the note for testing ....
+Good bye
